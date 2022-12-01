@@ -1,0 +1,71 @@
+
+
+.banner .banner-image {
+
+    position: absolute;
+    bottom: 0;
+    border-radius: 5px 5px 5px 5px;
+    width: 99.5%;
+    background-color: rgba(24,24,24,0.8);
+
+    font-size: 0.8em;
+
+}
+
+
+.banner .banner-content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 3%;
+    font-size: 45px;
+
+}
+
+body
+{
+    background: url('fond_jaune.png');
+
+}
+
+#text {
+    border-radius: 5px 5px 5px 5px;
+
+    background-color: cornflowerblue;
+    position: absolute;
+    width: 99.5%;
+    text-align: center;
+    top: 15%;
+    color: darkblue;
+    font-size: 20px;
+    height: 600px;
+    box-shadow: 4px 4px 4px #1c1a19;
+
+}
+#text2 {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 23%;
+    color: black;
+    font-size: 15px;
+
+
+}
+.banner .banner-content h1{
+
+    color: #ffffff;
+    font-size: 45px;
+
+}
+
+.banner .banner-content h2{
+
+    color: #00008B;
+    font-size: 30px;
+}
+
+.banner .banner-content h3{
+
+    font-size: 15px;
+}

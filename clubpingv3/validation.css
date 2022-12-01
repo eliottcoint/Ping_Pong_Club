@@ -1,0 +1,15 @@
+#text {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 25%;
+    color: black;
+    font-size: 15px;
+
+
+}
+body
+{
+    background: url('fond_jaune.png');
+
+}
